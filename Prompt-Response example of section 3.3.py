@@ -17,6 +17,7 @@ Analyze how the visual elements support the caption and identify relevant paragr
 Provide paragraph numbers and key supporting sentences.
 '''
 
+# Response:
 '''
 Response:
 {
